@@ -105,3 +105,4 @@ jobs:
         with:
           name: strato-${{ github.run_number }}-unsigned-release.apk
           path: strato-${{ github.run_number }}-unsigned-release.apk
+
